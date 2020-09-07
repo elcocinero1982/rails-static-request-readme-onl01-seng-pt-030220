@@ -629,3 +629,4 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 47.7.26.82 at 2020-09-07 02:47:33 +0000
